@@ -34,7 +34,7 @@ export default function Calculator() {
   };
 
   return (
-    <div className="flex flex-col gap-2">
+    <div className="flex flex-col gap-2 m-4">
       <p className="text-4xl font-bold">Menu:</p>
       <div className="flex flex-col w-1/2 gap-2">
         {menus.map((item) => {
