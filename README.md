@@ -2,7 +2,7 @@
 
 - with Next.js + Tailwind CSS + Jest
 
-[<img src="https://isntautomatic.com/test-freshket.png" width="480" target="_blank" />](https://isntautomatic.com/test-freshket.png)
+[<img src="https://isntautomatic.com/test-freshket.png?" width="480" target="_blank" />](https://isntautomatic.com/test-freshket.png?)
 
 Responsive.test.js
 
